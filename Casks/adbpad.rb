@@ -1,6 +1,6 @@
 cask "adbpad" do
-  version "3.8.0"
-  sha256 "6b75eebdc20786fe7ac4328e87754b14674c30738969918560996b9067498dd0"
+  version "3.9.0"
+  sha256 "54388ade3b5797c270122fb57733b6ac8d5a39cd9d4a66fff516989affd7227b"
 
   url "https://github.com/kaleidot725/adbpad/releases/download/v#{version}/AdbPad-#{version}.dmg"
   name "AdbPad"
